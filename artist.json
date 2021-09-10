@@ -1,0 +1,37 @@
+{
+  "external_urls": {
+    "spotify": "https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB"
+  },
+  "followers": {
+    "href": null,
+    "total": 240331
+  },
+  "genres": [
+    "j-pop",
+    "j-poprock",
+    "j-rock"
+  ],
+  "href": "https://api.spotify.com/v1/artists/5ydDSP9qSxEOlHWnpbblFB",
+  "id": "5ydDSP9qSxEOlHWnpbblFB",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb83514fcda99f392cabbb051",
+      "width": 640
+    },
+    {
+      "height": 320,
+      "url": "https://i.scdn.co/image/ab67616100005174b83514fcda99f392cabbb051",
+      "width": 320
+    },
+    {
+      "height": 160,
+      "url": "https://i.scdn.co/image/ab6761610000f178b83514fcda99f392cabbb051",
+      "width": 160
+    }
+  ],
+  "name": "Sambomaster",
+  "popularity": 53,
+  "type": "artist",
+  "uri": "spotify:artist:5ydDSP9qSxEOlHWnpbblFB"
+}
